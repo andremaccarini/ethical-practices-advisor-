@@ -1,0 +1,32 @@
+{
+    "bancário": [
+        "Implementar um programa robusto de combate à lavagem de dinheiro.",
+        "Realizar auditorias internas periódicas.",
+        "Manter registros detalhados de todas as transações financeiras."
+    ],
+    "tecnologia": [
+        "Adotar políticas de privacidade de dados conforme a LGPD.",
+        "Implementar medidas de segurança cibernética.",
+        "Treinar colaboradores em segurança da informação."
+    ],
+    "saúde": [
+        "Garantir conformidade com regulamentações de proteção de dados de pacientes.",
+        "Realizar auditorias regulares de equipamentos médicos.",
+        "Treinar a equipe em práticas éticas e conformidade."
+    ],
+    "construção": [
+        "Cumprir regulamentações de segurança do trabalho.",
+        "Gerenciar resíduos de forma sustentável.",
+        "Evitar práticas de suborno e corrupção em licitações."
+    ],
+    "agricultura": [
+        "Adotar práticas agrícolas sustentáveis.",
+        "Garantir conformidade com leis trabalhistas rurais.",
+        "Cumprir normas sobre uso de agrotóxicos e fertilizantes."
+    ],
+    "educação": [
+        "Seguir diretrizes do Ministério da Educação.",
+        "Proteger dados pessoais de estudantes conforme a LGPD.",
+        "Estabelecer códigos de conduta acadêmica."
+    ]
+}
